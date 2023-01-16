@@ -39,7 +39,7 @@ int main(){
     
     
     
-    APPROACH-2  T.C- O(n)  S.C.- 
+    APPROACH-2  T.C- O(n*m)  S.C.-O(n) 
     unordered_set<int>s1,s2;
     for(auto x:v1)s1.insert(x);
     
